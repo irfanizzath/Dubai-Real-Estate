@@ -14,4 +14,4 @@ This interactive Power BI suite provides a comprehensive longitudinal analysis o
 
 The data comes from the Dubai Land Department (DLD) via the Dubai Pulse open data portal. It covers all public sales transactions in Dubai from 2020 to 2025.
 
-⚠️ Caution on Accuracy: The developer names in this report were mapped to specific communities using Generative AI. Because this was an automated process, some developer-to-area matches may not be 100% accurate. Please treat the developer data as a strategic guide rather than an official record.
+> ⚠️ Caution on Accuracy: The developer names in this report were mapped to specific communities using Generative AI. Because this was an automated process, some developer-to-area matches may not be 100% accurate. Please treat the developer data as a strategic guide rather than an official record.
