@@ -1,7 +1,7 @@
 📌 **Project Overview**
 
 
-This interactive Power BI suite provides a comprehensive longitudinal analysis of the Dubai Real Estate market over a five-year period. By synthesizing millions of rows of transaction data, the dashboard uncovers the hidden mechanics behind price appreciation, liquidity trends, and developer dominance.
+This interactive Power BI suite provides a comprehensive longitudinal analysis of the Dubai Real Estate market over a five-year period. The dashboard decodes millions of transactions to reveal the hidden patterns behind pricing trends, market activity, and developer leadership across Dubai.
 
 ![Dubai Real Estate_page-0001](https://github.com/user-attachments/assets/3369a4b0-a0ad-4e18-b9cd-092663d9f064)
 ![Dubai Real Estate_page-0002](https://github.com/user-attachments/assets/6712077e-4808-4359-88cc-931222218f35)
